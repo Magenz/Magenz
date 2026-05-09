@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Magenz
-- I’m interested in any forms of technology...
-- Technical Consultant
-- Software Engr/Developer
-- I’m currently learning MERN stack...
-- I’m looking to collaborate on any Web development and IOT activities...
-- You can contact me at edwardagno1@gmail.com
-- ...
-
-<!---
-Magenz/Magenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Platform Tech Lead.
+Architecture · IoT · Platforms
+No trendy stacks. Just solid systems.
